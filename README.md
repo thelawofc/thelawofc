@@ -30,10 +30,10 @@ Status   : Online ██████████ 100%
 
 ```
 [+] OSINT & Reconnaissance
-[+] Network Analysis
-[+] Scripting & Automation
-[+] Cybersecurity Research
-[+] Open Source Tools
+[+] automation
+[+] general scripts
+[+] cybersecurity
+[+] bug bounty
 ```
 
 <br clear="right"/>
@@ -45,7 +45,6 @@ Status   : Online ██████████ 100%
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-000a00?style=for-the-badge&logo=python&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000a00?style=for-the-badge&logo=javascript&logoColor=00ff41)
 ![HTML5](https://img.shields.io/badge/HTML5-000a00?style=for-the-badge&logo=html5&logoColor=00ff41)
 ![CSS3](https://img.shields.io/badge/CSS3-000a00?style=for-the-badge&logo=css3&logoColor=00ff41)
 ![Bash](https://img.shields.io/badge/Bash-000a00?style=for-the-badge&logo=gnubash&logoColor=00ff41)
@@ -72,7 +71,7 @@ Status   : Online ██████████ 100%
 
 <div align="center">
 
-[![OSINT Terminal](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPO_OSINT&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33)](https://github.com/SEU_USUARIO/SEU_REPO_OSINT)
+[![OSINT Terminal](https://github-readme-stats.vercel.app/api/pin/?username=thelawofc&repo=SEU_REPO_OSINT&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33)](https://github.com/SEU_USUARIO/SEU_REPO_OSINT)
 
 </div>
 
@@ -82,9 +81,9 @@ Status   : Online ██████████ 100%
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=terminal&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00883300&background=000A00&stroke=00FF4122)
+![GitHub Streak](https://streak-stats.demolab.com?user=thelawofc&theme=terminal&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00883300&background=000A00&stroke=00FF4122)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&text_color=00cc33)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelawofc&layout=compact&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&text_color=00cc33)
 
 </div>
 
@@ -94,8 +93,8 @@ Status   : Online ██████████ 100%
 
 ```json
 {
-  "github"  : "github.com/SEU_USUARIO",
-  "email"   : "seuemail@email.com",
+  "github"  : "github.com/thelawofc",
+  "email"   : "thelawreallaw@gmail.com",
   "status"  : "Aberto para colaborações",
   "motto"   : "Education is the key."
 }
@@ -113,6 +112,6 @@ Status   : Online ██████████ 100%
 └─────────────────────────────────────────┘
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO&left_color=black&right_color=green&left_text=visitors)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thelawofcO&left_color=black&right_color=green&left_text=visitors)
 
 </div>
