@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33&hide_border=false" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=thelawofc&show_icons=true&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33&hide_border=false" />
 
 ### `> whoami`
 
@@ -71,7 +71,7 @@ Status   : Online ██████████ 100%
 
 <div align="center">
 
-[![OSINT Terminal](https://github-readme-stats.vercel.app/api/pin/?username=thelawofc&repo=SEU_REPO_OSINT&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33)](https://github.com/SEU_USUARIO/SEU_REPO_OSINT)
+[![OSINT Terminal](https://github-readme-stats.vercel.app/api/pin/?username=thelawofc&repo=SEU_REPO_OSINT&theme=chartreuse-dark&border_color=00ff41&bg_color=000a00&title_color=00ff41&icon_color=00ff41&text_color=00cc33)](https://github.com/thelawofc/thelawofc)
 
 </div>
 
